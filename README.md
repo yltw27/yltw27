@@ -9,3 +9,5 @@ Getting into AI systems lately and finding a lot of the same problems in a new s
 ---
 
 *Based in London · Background in Economics · Interested in platform engineering, developer tooling, and building AI workflows that's actually observable.*
+
+![](https://hit.yhype.me/github/profile?account_id=72010481)
