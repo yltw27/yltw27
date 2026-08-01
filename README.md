@@ -4,7 +4,7 @@ I enjoy the quieter side of engineering — the pipelines, the platforms, the th
 Getting into AI systems lately and finding a lot of the same problems in a new setting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiying-lin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yltw27)
+[![中文部落格](https://img.shields.io/badge/中文部落格-478EE3?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ithelp.ithome.com.tw/users/20182778/articles)
 
 ---
 
