@@ -1,13 +1,18 @@
+# Hi, I'm Yiying 👋
 
-I enjoy the quieter side of engineering — the pipelines, the platforms, the things that make everyone else's work a little smoother.
+I'm a software engineer based in London, working on production systems, AI evaluation, developer tooling, and cloud infrastructure.
 
-Getting into AI systems lately and finding a lot of the same problems in a new setting.
+I enjoy building the less visible but essential parts of software — the pipelines, observability, automation, and platform capabilities that help engineers ship and operate reliable systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiying-lin/)
-[![中文部落格](https://img.shields.io/badge/中文部落格-478EE3?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ithelp.ithome.com.tw/users/20182778/articles)
+My current technical interests include:
+
+- Production AI and LLM evaluation
+- Observable asynchronous workflows
+- Developer tooling and internal platforms
+- Kubernetes and event-driven systems
 
 ---
 
-*Based in London · Background in Economics · Interested in platform engineering, developer tooling, and building AI workflows that's actually observable.*
+*Based in London · CKA-certified · Background in Economics and NLP data quality*
 
 ![](https://hit.yhype.me/github/profile?account_id=72010481)
